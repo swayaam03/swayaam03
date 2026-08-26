@@ -1,177 +1,157 @@
 # Hi, I'm Swayam Kandarkar 👋
 
-### AI Engineer | Machine Learning Developer | Building Intelligent Systems
+### AI Engineer • Machine Learning • Intelligent Systems
 
-I'm an aspiring **AI Engineer** passionate about building practical, scalable, and intelligent systems using **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Data Analytics**.
+I’m a developer focused on building **practical AI systems** using Machine Learning, Computer Vision, Large Language Models, and agent-based architectures.
 
-I enjoy transforming ideas and data into real-world applications—from training machine learning models to building AI-powered platforms and multi-agent systems.
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 Computer Science student with a strong interest in **Artificial Intelligence and Machine Learning**
-* 🤖 Building projects involving **Machine Learning, Deep Learning, Computer Vision, and Generative AI**
-* 🧠 Interested in **LLMs, RAG systems, AI Agents, and Multi-Agent Architectures**
-* 📊 Exploring **data intelligence and automated analytics**
-* 🚀 Focused on building practical AI systems that solve real-world problems
-* 🌱 Continuously learning and improving my skills in modern AI technologies
+My goal is simple: **build technology that turns complex data and problems into useful, intelligent solutions.**
 
 ---
 
-## 🚀 Featured Project
+## About Me
 
-### 🧠 Lumora — Multi-Agent Data Intelligence Platform
+* 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**
+* 🧠 Exploring **LLMs, RAG pipelines, and Multi-Agent Systems**
+* 📊 Building intelligent systems for **data analysis and automation**
+* 👁️ Experience working with **Computer Vision and object detection models**
+* 🚀 Always looking to build projects that go beyond tutorials and solve real problems
 
-**Lumora** is an intelligent data analysis platform designed to transform raw datasets into meaningful insights using a **multi-agent AI architecture**.
+---
 
-The platform is being designed around specialized agents responsible for different stages of the data intelligence workflow:
+## 🚀 Currently Building
 
-```text
-Dataset
-   │
-   ▼
-┌───────────────┐
-│ Data Explorer │
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ Atlas Agent   │  → Data Cleaning
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ Scout Agent   │  → Exploratory Data Analysis
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ Canvas Agent  │  → Visualization
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ Oracle Agent  │  → AI-Powered Insights
-└───────────────┘
+### Lumora — Multi-Agent Data Intelligence Platform
+
+**Lumora** is a multi-agent platform designed to make data analysis more intelligent and accessible.
+
+Instead of treating data analysis as a single workflow, Lumora uses specialized agents that handle different stages of the process.
+
+```text id="lumora"
+                ┌─────────────────┐
+                │     Dataset     │
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │     Atlas       │
+                │  Data Cleaning  │
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │     Scout       │
+                │       EDA       │
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │     Canvas      │
+                │  Visualization  │
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │     Oracle      │
+                │     Insights    │
+                └─────────────────┘
 ```
 
-### Technologies & Concepts
+The vision is to create an AI-powered environment where users can **upload data, explore it, generate insights, visualize patterns, and interact with their data using natural language**.
 
-* Multi-Agent Systems
-* LangGraph
-* Large Language Models
-* Retrieval-Augmented Generation
-* Automated Exploratory Data Analysis
-* Data Visualization
-* Intelligent Report Generation
+**Core areas:**
 
-> Building toward a future where understanding data is as simple as having a conversation.
+`Multi-Agent AI` • `LLMs` • `LangGraph` • `Data Analysis` • `RAG` • `Visualization`
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql,cpp">
-</p>
+`Python` • `Java` • `JavaScript` • `SQL` • `C++`
 
-### AI / Machine Learning
+### AI & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv">
-</p>
+`PyTorch` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `YOLO` • `Pandas` • `NumPy`
 
-* Scikit-learn
-* Pandas
-* NumPy
-* YOLO
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Generative AI
+### Generative AI
+
+`LangChain` • `LangGraph` • `LLMs` • `RAG` • `AI Agents`
 
 ### Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,git,github">
-</p>
+`React` • `Node.js` • `HTML` • `CSS` • `REST APIs`
 
-### Databases & Tools
+### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,vscode">
-</p>
-
-* LangChain
-* LangGraph
-* Streamlit
-* Jupyter Notebook
-* REST APIs
+`Git` • `GitHub` • `Docker` • `Jupyter` • `VS Code` • `MySQL` • `MongoDB`
 
 ---
 
-# 📌 Areas of Interest
+## 📌 Areas I'm Exploring
 
-```text
+```text id="areas"
 Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Deep Learning
-        ├── Computer Vision
-        ├── Generative AI
-        ├── Large Language Models
-        ├── RAG Systems
-        └── Multi-Agent AI Systems
+│
+├── Machine Learning
+├── Deep Learning
+├── Computer Vision
+├── Generative AI
+├── Large Language Models
+├── Retrieval-Augmented Generation
+└── Multi-Agent Systems
 ```
 
 ---
 
-# 📂 What I'm Currently Building
+## 📂 Featured Work
 
-🔹 **Lumora** — Multi-Agent Data Intelligence Platform
+### 🤖 AI & Machine Learning
 
-🔹 AI-powered applications using **LLMs and RAG**
+Projects involving machine learning models, deep learning, and intelligent prediction systems.
 
-🔹 Machine Learning and Computer Vision projects
+### 👁️ Computer Vision
 
-🔹 Intelligent automation and agent-based systems
+Building object detection and computer vision applications using modern deep learning architectures such as **YOLO**.
 
----
+### 🧠 Generative AI
 
-# 📈 GitHub Activity
+Experimenting with **LLMs, Retrieval-Augmented Generation, AI agents, and intelligent workflows**.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true">
-</p>
+### 📊 Data Intelligence
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true">
-</p>
+Developing systems that transform raw datasets into **insights, visualizations, and actionable information**.
 
 ---
 
-# 🤝 Let's Connect
+## 📈 GitHub Stats
 
-I'm always interested in discussing:
+<p align="center">
 
-* Artificial Intelligence
-* Machine Learning
-* Generative AI
-* AI Agents
-* Data Intelligence
-* Interesting project ideas
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin">
-  </a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
 
-  <a>
-    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail">
-  </a>
 </p>
 
 ---
 
+## 🌐 Connect With Me
+
 <p>
-  <i>Building intelligent systems, one project at a time.</i>
+
+<a href="YOUR_LINKEDIN_URL">
+  LinkedIn
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  Email
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems and learning something new along the way.</i>
 </p>
