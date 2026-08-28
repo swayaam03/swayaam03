@@ -18,46 +18,6 @@ My goal is simple: **build technology that turns complex data and problems into 
 
 ---
 
-## 🚀 Currently Building
-
-### Lumora — Multi-Agent Data Intelligence Platform
-
-**Lumora** is a multi-agent platform designed to make data analysis more intelligent and accessible.
-
-Instead of treating data analysis as a single workflow, Lumora uses specialized agents that handle different stages of the process.
-
-```text id="lumora"
-                ┌─────────────────┐
-                │     Dataset     │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │     Atlas       │
-                │  Data Cleaning  │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │     Scout       │
-                │       EDA       │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │     Canvas      │
-                │  Visualization  │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │     Oracle      │
-                │     Insights    │
-                └─────────────────┘
-```
-
-The vision is to create an AI-powered environment where users can **upload data, explore it, generate insights, visualize patterns, and interact with their data using natural language**.
-
 **Core areas:**
 
 `Multi-Agent AI` • `LLMs` • `LangGraph` • `Data Analysis` • `RAG` • `Visualization`
