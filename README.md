@@ -88,9 +88,9 @@ Developing systems that transform raw datasets into **insights, visualizations, 
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=swayaam03&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayaam03&layout=compact&hide_border=true" />
 
 </p>
 
