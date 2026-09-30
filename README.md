@@ -1,4 +1,4 @@
-# Hi, I'm Swayam Kandarkar 👋
+# Hi, I'm Swayam Kandarkar 
 
 I'm a developer passionate about building **intelligent, scalable, and practical AI solutions**. I work at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, and Agentic AI**, turning complex ideas into real-world applications.
 
