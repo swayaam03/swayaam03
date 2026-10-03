@@ -1,16 +1,21 @@
-# Hi, I'm Swayam Kandarkar 
-I'm an AI Engineer and IT undergraduate passionate about building intelligent, scalable, and practical AI solutions.[cite: 1, 2] I work at the intersection of Agentic AI, Computer Vision, and full-stack development, turning complex ideas into real-world applications that make a difference.[cite: 1, 2]
+# Hi, I'm Swayam 👋
 
-### 🚀 What I'm working on
-*   Architecting multi-agent LLM pipelines using LangChain and LangGraph.[cite: 2]
-*   Developing real-time computer vision applications and data intelligence platforms.[cite: 2]
-*   Contributing to open-source communities like GSSOC and Hacktoberfest.[cite: 2]
+I'm an AI engineer in the making, studying Information Technology in Mumbai. I build agentic and computer vision systems, and I care about making them reliable enough to actually be used.
 
-### 🛠️ Core Tech Stack
-*   **AI & ML:** Python, Generative AI, RAG, LangChain, LangGraph, YOLOv8[cite: 2]
-*   **Backend & Data:** Node.js, FastAPI, REST APIs, MongoDB[cite: 2]
-*   **Frontend & Cloud:** React.js, Docker, AWS[cite: 2]
+## What I've been building
 
-### 📫 Let's Connect
-*   **Portfolio:** [swayamkandarkar.vercel.app](https://swayamkandarkar.vercel.app)[cite: 1, 2]
-*   **Email:** swayam.kandarkar@gmail.com[cite: 2]
+- **[Lumora](https://github.com/swayaam03/REPO-NAME)**: a six-agent pipeline that takes a raw CSV and returns cleaned data, EDA, visuals, and a written report. Built with LangGraph, with structured outputs and guardrails.
+- **[NOVA](https://github.com/swayaam03/REPO-NAME)**: a YOLOv8-based traffic system that reads live intersection density and clears a green corridor for emergency vehicles.
+- **[MySociety](https://github.com/swayaam03/REPO-NAME)**: a full-stack society management platform with real-time chat, billing, and AI-assisted complaint handling.
+
+## Tools I reach for
+
+`Python` · `LangChain` · `LangGraph` · `FastAPI` · `React` · `Node.js` · `MongoDB` · `Docker` · `AWS`
+
+## Beyond my own projects
+
+I contribute to open source (GSSoC, Hacktoberfest) and enjoy the small, careful work of fixing things in other people's codebases.
+
+## Say hi
+
+🌐 [Portfolio](https://swayamkandarkar.vercel.app) · 💼 [LinkedIn](YOUR-LINKEDIN-URL) · ✉️ swayam.kandarkar@gmail.com
